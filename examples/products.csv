@@ -1,0 +1,4 @@
+﻿sku,product,quantity,retail_amount_rub,commission_rub,logistics_rub,storage_rub,acceptance_rub,penalty_rub,deduction_rub,adjustment_rub,reported_payout_rub,calculated_payout_rub,reconciliation_delta_rub
+DEMO-101,Демо-товар A,1,5000.00,750.00,600.00,0.00,0.00,0.00,0.00,0.00,3650.00,3650.00,0.00
+DEMO-202,Демо-товар B,2,16000.00,2400.00,600.00,50.00,100.00,200.00,500.00,0.00,12150.00,12150.00,0.00
+DEMO-303,Демо-товар C,1,3500.00,525.00,150.00,0.00,0.00,0.00,0.00,300.00,3100.00,3125.00,-25.00

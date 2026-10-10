@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+outputs/*
+!outputs/.gitkeep
+*.sqlite
+*.sqlite3
+*.db
+data/private/
+data/raw/
+

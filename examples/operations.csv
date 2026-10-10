@@ -1,0 +1,5 @@
+﻿operation_type,quantity,retail_amount_rub,commission_rub,logistics_rub,storage_rub,acceptance_rub,penalty_rub,deduction_rub,adjustment_rub,reported_payout_rub,calculated_payout_rub,reconciliation_delta_rub
+adjustment,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,300.00,300.00,300.00,0.00
+deduction,0,0.00,0.00,0.00,0.00,0.00,0.00,500.00,0.00,-500.00,-500.00,0.00
+return,-1,-5000.00,-750.00,200.00,0.00,0.00,0.00,0.00,0.00,-4450.00,-4450.00,0.00
+sale,5,29500.00,4425.00,1150.00,50.00,100.00,200.00,0.00,0.00,23550.00,23575.00,-25.00

@@ -1,0 +1,4 @@
+﻿line_id,report_date,sku,product,operation_type,reason,reported_payout_rub,calculated_payout_rub,reconciliation_delta_rub
+L005,2026-09-10,DEMO-202,Демо-товар B,sale,PENALTY_PRESENT,6200.00,6200.00,0.00
+L006,2026-09-11,DEMO-202,Демо-товар B,deduction,DEDUCTION_PRESENT,-500.00,-500.00,0.00
+L008,2026-09-13,DEMO-303,Демо-товар C,sale,PAYOUT_MISMATCH,2800.00,2825.00,-25.00
